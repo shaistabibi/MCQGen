@@ -8075,7 +8075,7 @@
     ],
     "paths_version": 1
   },
-  "requested_spec": "None",
+  "requested_spec": "setuptools",
   "sha256": "b9bd540bbcf3c23d6eaf4aa82bc24f6ae3ea8c3f0f647708fd9f5b44dbb192f9",
   "size": 2568587,
   "subdir": "win-64",

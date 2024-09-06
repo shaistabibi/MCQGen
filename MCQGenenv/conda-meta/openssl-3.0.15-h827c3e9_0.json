@@ -1341,7 +1341,7 @@
     ],
     "paths_version": 1
   },
-  "requested_spec": "None",
+  "requested_spec": "openssl",
   "sha256": "f66ac4602ff5f9e46d7949cdde2bfd0db88702cd0b885c70a70891c348c0c1df",
   "size": 8139465,
   "subdir": "win-64",
